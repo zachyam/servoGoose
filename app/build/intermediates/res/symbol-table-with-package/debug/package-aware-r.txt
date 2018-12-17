@@ -1,0 +1,5 @@
+com.example.androidthings.myproject
+id surfaceView
+id txtStatus
+layout activity_main
+string app_name

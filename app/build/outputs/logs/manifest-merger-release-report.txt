@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-1.0.aar/968a792ceaf453da3503975516a66355/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-apa102:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-apa102-1.0.aar/ebaf13651eb15bd939ec543e67043cfc/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-button:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-button-1.0.aar/ed978e14e0a410290d78eea67e793a45/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/847dbe5e466c9c2dc8e2569f265a07a2/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-ht16k33:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-1.0.aar/56fe8dcc89e40696990ef66c967d516d/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-1.0.aar/6167090841cea9928ef732d6bfbd2505/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-pwmservo:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-1.0.aar/af6562d7f3f46f83c89cec5a801012c3/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:18:5-50
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:1-40:12
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:1-40:12
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#com.google.android.things.permission.USE_PERIPHERAL_IO
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:19:5-93
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:19:22-91
+uses-feature#android.hardware.camera
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:20:5-60
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:20:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:22:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:23:22-63
+application
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:24:5-39:19
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-1.0.aar/968a792ceaf453da3503975516a66355/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-1.0.aar/968a792ceaf453da3503975516a66355/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-apa102:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-apa102-1.0.aar/ebaf13651eb15bd939ec543e67043cfc/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-apa102:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-apa102-1.0.aar/ebaf13651eb15bd939ec543e67043cfc/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-button:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-button-1.0.aar/ed978e14e0a410290d78eea67e793a45/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-button:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-button-1.0.aar/ed978e14e0a410290d78eea67e793a45/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/847dbe5e466c9c2dc8e2569f265a07a2/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/847dbe5e466c9c2dc8e2569f265a07a2/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-ht16k33:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-1.0.aar/56fe8dcc89e40696990ef66c967d516d/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-ht16k33:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-1.0.aar/56fe8dcc89e40696990ef66c967d516d/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-1.0.aar/6167090841cea9928ef732d6bfbd2505/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-1.0.aar/6167090841cea9928ef732d6bfbd2505/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmservo:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-1.0.aar/af6562d7f3f46f83c89cec5a801012c3/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmservo:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-1.0.aar/af6562d7f3f46f83c89cec5a801012c3/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:24:18-50
+uses-library#com.google.android.things
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:25:9-65
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-1.0.aar/968a792ceaf453da3503975516a66355/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-1.0.aar/968a792ceaf453da3503975516a66355/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-apa102:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-apa102-1.0.aar/ebaf13651eb15bd939ec543e67043cfc/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-apa102:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-apa102-1.0.aar/ebaf13651eb15bd939ec543e67043cfc/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-button:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-button-1.0.aar/ed978e14e0a410290d78eea67e793a45/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-button:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-button-1.0.aar/ed978e14e0a410290d78eea67e793a45/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/847dbe5e466c9c2dc8e2569f265a07a2/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/847dbe5e466c9c2dc8e2569f265a07a2/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-ht16k33:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-1.0.aar/56fe8dcc89e40696990ef66c967d516d/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-ht16k33:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-1.0.aar/56fe8dcc89e40696990ef66c967d516d/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-1.0.aar/6167090841cea9928ef732d6bfbd2505/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-1.0.aar/6167090841cea9928ef732d6bfbd2505/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-pwmservo:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-1.0.aar/af6562d7f3f46f83c89cec5a801012c3/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-pwmservo:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-1.0.aar/af6562d7f3f46f83c89cec5a801012c3/AndroidManifest.xml:25:9-27:40
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:25:23-63
+activity#com.example.androidthings.myproject.MainActivity
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:26:9-38:20
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:29:27-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.IOT_LAUNCHER
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:33:13-37:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:35:17-80
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:35:27-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:36:17-75
+	android:name
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml:36:27-73
+uses-sdk
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-1.0.aar/968a792ceaf453da3503975516a66355/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-1.0.aar/968a792ceaf453da3503975516a66355/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-apa102:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-apa102-1.0.aar/ebaf13651eb15bd939ec543e67043cfc/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-apa102:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-apa102-1.0.aar/ebaf13651eb15bd939ec543e67043cfc/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-button:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-button-1.0.aar/ed978e14e0a410290d78eea67e793a45/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-button:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-button-1.0.aar/ed978e14e0a410290d78eea67e793a45/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/847dbe5e466c9c2dc8e2569f265a07a2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/847dbe5e466c9c2dc8e2569f265a07a2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-ht16k33:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-1.0.aar/56fe8dcc89e40696990ef66c967d516d/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-ht16k33:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-1.0.aar/56fe8dcc89e40696990ef66c967d516d/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-1.0.aar/6167090841cea9928ef732d6bfbd2505/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-1.0.aar/6167090841cea9928ef732d6bfbd2505/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-pwmservo:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-1.0.aar/af6562d7f3f46f83c89cec5a801012c3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-pwmservo:1.0] /Users/zachy/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-1.0.aar/af6562d7f3f46f83c89cec5a801012c3/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zachy/AndroidStudioProjects/new-project-template/app/src/main/AndroidManifest.xml
