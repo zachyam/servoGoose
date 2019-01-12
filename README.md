@@ -1,7 +1,7 @@
 Android Things servoGoose
 =====================================
 
-![](https://github.com/cognitedata/servoGoose/blob/master/servoGoose.gif)
+![](https://github.com/zachyam/servoGoose/blob/master/servoGoose.gif)
 
 Pre-requisites
 --------------
