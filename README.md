@@ -3,6 +3,8 @@ Android Things servoGoose
 
 ![](https://github.com/zachyam/servoGoose/blob/master/servoGoose.gif)
 
+This is an Android Pico board project that I built. It has a motion sensor attached to it, so when anyone walks into the room, it triggers a servo motor attached to the board to pinch the Goose, which gives out a honk!
+
 Pre-requisites
 --------------
 
